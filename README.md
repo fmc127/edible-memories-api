@@ -45,14 +45,14 @@ User -|--< Posts
 ## Planning and Development Story
 
 Back-end development process:
-- Setting up our schema, model, and CRUD routes and actions.
+- Set up schema, model, and CRUD routes and actions.
 - Tested local and deployed routes with Postman before and after deploying to Heroku.
 - Added relationships to serializer and changed the post controller to "Protected"
 
 ## Unsolved Problems and Future Goals
 
 - I have no outstanding problems with the back end
-- Another feature I would like to add is the addition of photos to Posts. I would use AWS S3 to host the images.
+- A feature I would like to add is the addition of photos to Posts. I would use AWS S3 to host the images.
 - My biggest future goal for this application is to remake it from the ground up with Express for the back end.
 
 
