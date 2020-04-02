@@ -3,6 +3,8 @@ Edible Memories API: An API supporting the Edible Memories web app
 The Edible Memories API stores the user authentication and Edible Memories content data
 for users of the Edible Memories web app.
 
+# Description
+Edible memories is a food blog application. The user can create posts containing a title, description, recipe, and rating. The user can update, delete, and view posts once logged in to the application.
 
 ## Important Links
 
