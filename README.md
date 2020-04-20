@@ -18,7 +18,10 @@ Edible memories is a food blog application. The user can create posts containing
 
 - [GA Rails-API-Template](https://git.generalassemb.ly/ga-wdi-boston/rails-api-template#installation)
 - Install dependencies: `bundle install`
+- Create your database: `bin/rails db:create`
+- Migrate database: `bin/rails db:migrate`
 - Start local Express server: `bin/rails server`
+
 
 
 ## Technologies
